@@ -1,4 +1,4 @@
-jdk8="/home/joergi/dev/java/jdk1.8.0_102"
+jdk8="/home/joergi/dev/java/jdk1.8.0_112"
 
 sudo update-alternatives --install "/usr/bin/java" "java" $jdk8"/bin/java" 3
 sudo update-alternatives --install "/usr/bin/javac" "javac" $jdk8"/bin/javac" 3
