@@ -1,3 +1,4 @@
+#!/bin/bash
 jdk8="/usr/lib/jvm/java-8-openjdk-amd64"
 
 sudo update-alternatives --install "/usr/bin/java" "java" $jdk8"/bin/java" 3

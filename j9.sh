@@ -1,3 +1,4 @@
+#!/bin/bash
 jdk9="/usr/lib/jvm/java-9-openjdk-amd64"
 
 sudo update-alternatives --install "/usr/bin/java" "java" $jdk9"/bin/java" 3

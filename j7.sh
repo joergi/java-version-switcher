@@ -1,3 +1,4 @@
+#!/bin/bash
 jdk7="/home/joergi/dev/java/jdk1.7.0_79/"
 
 sudo update-alternatives --install "/usr/bin/java" "java" $jdk7"/bin/java" 2

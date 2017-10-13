@@ -1,3 +1,4 @@
+#!/bin/bash
 jdk6="/home/joergi/dev/java/jdk1.6.0_45"
 
 sudo update-alternatives --install "/usr/bin/java" "java" $jdk6"/bin/java" 1
